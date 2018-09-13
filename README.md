@@ -1,5 +1,5 @@
 # Kotlin Notepad
-This application using Image Cropping Library for Android, optimized for Camera and Gallery.
+My first kotlin project from Udacity
 
 ### Screenshots
 <pre>
